@@ -1,0 +1,11 @@
+/SingleObject/build/
+/SingleObject/dist/
+/SingleObject/nbproject/private/
+/StatePattern/build/
+/StatePattern/dist/
+/StatePattern/nbproject/private/
+/FactoryPattern/build/
+/FactoryPattern/dist/
+/FactoryPattern/nbproject/private/
+/FacadePattern/nbproject/private/
+/FacadePattern/build/
